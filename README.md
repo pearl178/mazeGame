@@ -4,7 +4,7 @@ Program to get out of a maze
 This is the first time I've spent such a long time on a project since I've learned to program!I must record this!
 
 # Functions Used
-I did this on a website called Reeborg's World. Here are some functions included in the code:
+I did this on a website called Reeborg's World. Here are some functions included in the code:\n
 move(): Take 1 step forward.
 turn_left(): Turn left.
 at_goal(): Check if the robot has arrived the goal.
